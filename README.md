@@ -71,7 +71,7 @@ An outlier is a point which falls more than 1.5 times the interquartile range ab
 - Step 5: Find upper bound (q3*1.5)
 Anything that lies outside of lower and upper bound is an outlier
 
-#Handling Outliers
+# Handling Outliers
 One of the simplest way to handle outliers is to just remove them from the data or . If you believe that the outliers in the dataset are because of errors during the data collection process then you should remove it or replace it with NaN.
 
 ### Handling missing value
