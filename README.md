@@ -26,13 +26,13 @@ Organizing, summarizing, and presenting data in an informative way
 ## Measure of Central Tendency
 ### Mean
 Mean represents the average of the given collection of data. It is applicable for both continuous and discrete data.
-•	All scores in distribution affected the mean
-•	Many samples from the same population will have similar means
-•	The mean will change if we add extreme value
+- All scores in distribution affected the mean
+- Many samples from the same population will have similar means
+- The mean will change if we add extreme value
 ### Median
 Median represents the mid-value of the given set of data when arranged in a particular order.
-•	Doesn't change much by extreme values (outliers).
-•	Median is a robust statistics.
+- Doesn't change much by extreme values (outliers).
+- Median is a robust statistics.
 ### Modus
 The most frequent number occurring in the data set is known as the mode.
 ## Measure of Spread / Dispersion
