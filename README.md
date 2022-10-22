@@ -72,9 +72,9 @@ An outlier is a point which falls more than 1.5 times the interquartile range ab
 Anything that lies outside of lower and upper bound is an outlier
 
 # Handling Outliers
-One of the simplest way to handle outliers is to just remove them from the data or . If you believe that the outliers in the dataset are because of errors during the data collection process then you should remove it or replace it with NaN.
+One of the simplest way to handle outliers is to just remove them from the data. If you believe that the outliers in the dataset are because of errors during the data collection process then you should remove it or replace it with NaN.
 
-### Handling missing value
+# Handling missing value
 Missing values are usually represented in the form of Nan or null or None in the dataset.
 In this case, we will be filling the missing values with a certain number. The possible ways to do this are:
 - Filling the missing data with the mean or median value if it’s a numerical variable.
